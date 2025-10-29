@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "Hobaek-1.21.4",
-      "name": "Hobaek (Minecraft 1.21.4)",
+      "name": "호백런처",
       "description": "Minecraft 1.21.4 (Fabric v0.17.3)",
       "icon": "https://github.com/mchdistro/Hobaek/raw/main/server-icon.png",
       "version": "1.0.0",

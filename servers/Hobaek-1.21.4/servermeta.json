@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/Hobaek/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Hobaek (Minecraft 1.21.4)",
+    "name": "호백런처",
     "description": "Minecraft 1.21.4 (Fabric v0.17.3)",
     "icon": "https://github.com/mchdistro/Hobaek/raw/main/server-icon.png",
     "address": "localhost:25565",
